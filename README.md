@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @HmBloqued
-- 👀 I’m interested in python/C
-- 🌱 I’m currently learning SDL2
+- 👀 I’m interested in Front-End developpement
+- 🌱 I’m currently learning Java
 - 📫 How to reach me go instagram : @tlaffra
 
 <!---
