@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @HmBloqued
 - 👀 I’m interested in Front-End developpement
 - 🌱 I’m currently learning Java
-- 📫 How to reach me go instagram : @tlaffra
+- 📫 How to reach me - instagram : @tlaffra
 
 <!---
 HmBloqued/HmBloqued is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
